@@ -1,3 +1,8 @@
-format: model-project_it_was_used_for
+format: model__project
 
-So far each folder contains a hermes profile SOUL.md and a hermes profile config.yaml.
+Each folder contains:
+- a hermes profile SOUL.md
+- a hermes profile config.yaml
+
+Optionally also:
+- an AGENTS.md
